@@ -7,7 +7,7 @@
         local('Plain_Black_Wide'),
         url(Fonts/Plain_Black-webfont.ttf) format('truetype'),
         url(Fonts/Plain_Black-webfont.woff)  format('woff');
-  } 
+  }
 
 body
 {
